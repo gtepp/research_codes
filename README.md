@@ -10,4 +10,5 @@ Magnitude of Completeness (Mc)
 - Mc_analysis_sequence.m: This script is similar to the above but can use specific dates for more control (e.g., to examine a specific earthquake sequence).
 - Mc_analysis_grided.m: This script uses the maximum curvature method to calculate Mc for spatial bins for a given year, span of years, or set of years.
 - import_scsn_files.m: This scripts converts SCSN yearly text files (https://service.scedc.caltech.edu/ftp/catalogs/SCEC_DC/) to the array format needed for the Mc scripts.
+
 *Note: These scripts were written and tested with Matlab 2022. The grided version uses the mapping toolbox for plotting.
