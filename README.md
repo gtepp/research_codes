@@ -1,6 +1,6 @@
 # research_codes
 
-These are some scripts that I've written for seismology research. I'm making them available to those who may be able to use them. Please note that since they are research codes, they may contain bugs and/or require additioanl effort to adapt to your specific needs.
+These are some scripts that I've written for seismology research. I'm making them available to those who may be able to use them. Please note that since they are research codes, they may contain bugs and/or require additional effort to adapt to your specific needs.
 
 Empirical Green's Functions
 - EGFcode.zip: This is a set of MatLab scripts for doing EGF analysis of earthquake waveforms. These scripts were written and used with a Matlab version before 2015 (2012, I think).
